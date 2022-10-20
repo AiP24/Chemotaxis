@@ -3,6 +3,11 @@ body {
     color: rgb(0,0,0);
     font-family: "Open Sans", sans-serif;
     text-align: left;
+    background-image: url("real.jpg");
+    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center;
+
 }
 
 #content {
